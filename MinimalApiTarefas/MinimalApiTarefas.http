@@ -1,0 +1,6 @@
+@MinimalApiTarefas_HostAddress = http://localhost:5279
+
+GET {{MinimalApiTarefas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
